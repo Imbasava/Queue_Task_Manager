@@ -1,3 +1,7 @@
+
+-- add priority column if missing
+
+
 CREATE TABLE IF NOT EXISTS jobs (
 id TEXT PRIMARY KEY,
 command TEXT NOT NULL,
