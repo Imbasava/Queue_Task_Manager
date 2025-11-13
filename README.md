@@ -48,7 +48,8 @@ A lightweight **web dashboard** (Express + Chart.js) provides live monitoring.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/queuectl.git
+git clone https://github.com/imbasava/
+Flam-Queue_Task_Manager .git
 cd queuectl
 
 # 2. Install dependencies
